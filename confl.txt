@@ -1,2 +1,8 @@
 this text was written in develop
 to make conflict with other branch
+
+this file was written in feature
+we need to solve the cinflict soon
+
+now we fixed conflict adding this text
+
